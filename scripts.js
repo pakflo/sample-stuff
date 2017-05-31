@@ -1,1 +1,1 @@
-alert("Java is Cool");
+alert("Java is Cool!");
